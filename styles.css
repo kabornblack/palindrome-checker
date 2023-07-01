@@ -54,7 +54,7 @@ body {
   align-items: center;
 }
 
-.palindrome {
+.pal {
   width: 40rem;
   background: #fff;
   padding: 5rem 3rem;
@@ -78,8 +78,9 @@ button {
   border-radius: 5px;
   color: #fff;
   background-color: var(--color-sec);
+  cursor: pointer;
 }
 
 p.result {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
